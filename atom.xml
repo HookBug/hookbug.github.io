@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Security Researcher</title>
+  
+  
+  <link href="https://hookbug.top/atom.xml" rel="self"/>
+  
+  <link href="https://hookbug.top/"/>
+  <updated>2022-12-09T17:05:50.072Z</updated>
+  <id>https://hookbug.top/</id>
+  
+  <author>
+    <name>HookBug</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://hookbug.top/undefined/hello-world/"/>
+    <id>https://hookbug.top/undefined/hello-world/</id>
+    <published>2022-12-09T17:02:46.433Z</published>
+    <updated>2022-12-09T17:05:50.072Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to my Blog!  This is my first blog. &lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;初篇以经典的Hello</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
